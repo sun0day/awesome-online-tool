@@ -11,6 +11,7 @@ This repo collects awesome online tools.
 - [ast transformer](https://astexplorer.net/)
 - [babel compiler](https://babeljs.io/repl)
 - [typescript playground](https://www.typescriptlang.org/play)
+- [web page benchmark](https://pagespeed.web.dev/)
 
 ### json
 
