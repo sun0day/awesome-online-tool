@@ -7,6 +7,7 @@ This repo collects awesome online tools.
 ### web development
 
 - [css color palette by Github](https://primer.style/prism/)
+- [css shadow editor](https://alvarotrigo.com/shadow-gradients/)
 - [web development online editor](https://codesandbox.io/)
 - [ast transformer](https://astexplorer.net/)
 - [babel compiler](https://babeljs.io/repl)
